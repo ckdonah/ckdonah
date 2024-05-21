@@ -12,7 +12,7 @@ My name is Godwin, I love learning new technologies and building cool projects <
 
 ---
 
-### myStack - Languages & Tools
+### my Tech Stack - Languages & Tools
 
 [![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)]()

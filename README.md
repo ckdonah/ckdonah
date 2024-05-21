@@ -1,5 +1,5 @@
 
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
 ### 👨‍💻 About me
 Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional and beautiful websites. Check out my work and let's collaborate!  
  :zap: In my free time, I like to study.
@@ -7,7 +7,7 @@ Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinona007/)
 
 ---
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
+
 
 ### my Tech Stack - Languages & Tools
 

@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 </div>
- <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=deadend1pro&style=flat-square&color=blue" 
 <div align="center">
   <img src="/mnt/data/giphy.gif" width="600" height="300"/>
 </div>

@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻
+### 👨‍💻 About me
 My name is godwin, I love learning new technologies and building cool projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Germany.
 - :telescope: I’m hoping to break into the tech field and continue to learn more.
 
@@ -38,4 +38,4 @@ My name is godwin, I love learning new technologies and building cool projects <
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ckdonah&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ckdon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

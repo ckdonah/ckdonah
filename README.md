@@ -31,5 +31,4 @@ My name is Godwin, I love learning new technologies and building cool projects <
 
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ckdonah&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+

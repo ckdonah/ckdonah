@@ -1,6 +1,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" align="center"> 
-### 👨‍💻 About me
+###  About me
+👨‍💻
 Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional and beautiful websites. Check out my work and let's collaborate!  
  :zap: In my free time, I like to study.
 

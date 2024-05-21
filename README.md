@@ -1,14 +1,14 @@
 
 
 ### 👨‍💻 About me
-My name is Godwin, I love learning new technologies and building cool projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m hoping to break into the tech field and continue to learn more.
+Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional and beautiful websites. Check out my work and let's collaborate!
 
-- :seedling: I can't wait to make more projects and explore more ideas.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 - :zap: In my free time, I like to study.
 
-- :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinona007/)
+- :mailbox: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinona007/)
 
 ---
 

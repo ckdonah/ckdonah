@@ -8,7 +8,7 @@ Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional
 
  :zap: In my free time, I like to study.
 
- :mailbox: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinona007/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwinona007/)
 
 ---
 

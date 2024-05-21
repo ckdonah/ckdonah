@@ -20,3 +20,13 @@ Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
 </div>
+
+
+👨‍💻 About Me
+Hi, I'm Godwin. I love learning new technologies and building cool projects 
+ in Germany.
+
+:telescope: I’m hoping to break into the tech field and continue to learn more.
+:seedling: I can't wait to make more projects and explore new ideas.
+:zap: In my free time, I enjoy cosplaying and attending conventions.
+:mailbox: How to reach me: Linkedin Badge

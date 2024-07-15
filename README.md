@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" align="center"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" align="center"> 
 
 👨‍💻
 Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional and beautiful websites. Check out my work and let's collaborate!  

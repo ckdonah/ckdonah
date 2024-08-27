@@ -34,13 +34,6 @@ Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional
   </a>
 </p>
 
-### Programming Languages
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,bash,powershell" alt="JavaScript, C, Bash, PowerShell" />
-  </a>
-</p>
-
 ### Development Tools
 <p align="start">
   <a href="https://skillicons.dev">

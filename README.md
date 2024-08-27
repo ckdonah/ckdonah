@@ -23,7 +23,7 @@ Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional
 ### Frontend Technologies
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nextjs,bootstrap" alt="HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,nextjs,bootstrap" alt="HTML, CSS, JavaScript, typeScript, Tailwind CSS, React, Next.js, Bootstrap" />
   </a>
 </p>
 

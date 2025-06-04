@@ -17,30 +17,6 @@ Hi, I'm Godwin, a Full-stack web developer. I love turning ideas into functional
 ---
 
 
-## 🛠️ Languages and Tools
-
-### Frontend Technologies
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react,nextjs,bootstrap" alt="HTML, CSS, JavaScript, typeScript, Tailwind CSS, React, Next.js, Bootstrap" />
-  </a>
-</p>
-
-### Backend Technologies
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
-  </a>
-</p>
-
-### Development Tools
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github" alt="VS Code, Android Studio, Postman, Git, GitHub" />
-  </a>
-</p>
-
-
 
 
 

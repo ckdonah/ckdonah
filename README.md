@@ -8,7 +8,7 @@
 </p>
 
 
-👨‍💻
+
  I love turning ideas into functional and beautiful websites.  let's collaborate!
  
 
